@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="https://fi.wikipedia.org/wiki/P%C3%A4%C3%A4ryn%C3%A4#/media/File:Pears.jpg" alt="Pera" hspace="20" width="30%" align="right"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Pears.jpg" alt="Pera" hspace="20" width="30%" align="right"/> 
 Pera likes to carve things out of wood and whenever possible, he paints them yellow - dark yellow in the mornings, and canary yellow if the painting takes place
 in the afternoon. The most complex works (and the ones he is proudest of) are the 
 wooden ceiling of Köhniö church (although he had to paint it red at the 
