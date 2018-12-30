@@ -20,10 +20,10 @@ addition the course also consisted of version control systems and compiling soft
 
 Introduction to the topic of the course, the basics of command-line. We learned how to use 
 command-line and to create and edit files using it.
-This command outputs word "hello world".
 ```bash
 echo hello world
 ```
+This command outputs word "hello world".
 ### Week 2: Navigating a UNIX System
 
 During the second week we learned about UNIX filesystems, their hierarchies and how to create, 
