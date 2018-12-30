@@ -13,7 +13,7 @@ request of local priest instead of the yellow he would have preferred much more)
 During his spare time he is an avid skiier, and skiis every day 30km to his favorite lake on top of the Köhniö Hill to ice fish green trouts that live there. He tries to catch the smallest trout in the lake, and while writing this (December 2018) the smallest one he has caught was 150g and 10cm - this fish is on frame on top of his fireplace. Pera likes also to tell stories about the 10g trout he almost got 1987, but lost due to too strong fishing line.
 As the opportunities for skiing and ice fishing are scarce during summertime, Pera prefers to sleep and dream of trouts, ice, snow and siskonmakkarasoppa (a local gourmet dish).
 
-
+[CV](https://sumyl.github.io/Pera_CV.pdf)
 
 ## Find me on
 
